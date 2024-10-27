@@ -1,7 +1,6 @@
 #Chris Cooper
-#Final Project
 #04/26/2024
-#Create a blackjack simulator
+#Blackjack Simulator
 
 
 
